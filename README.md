@@ -1,5 +1,6 @@
 # Netflix-Clone
-
+Response Netflix frontend clone using html and css
+#week2
 
 
 
