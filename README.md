@@ -2,7 +2,7 @@
 Response Netflix frontend clone using html and css
 ## week2
 
-echo "# Netflix-Clone" >> README.md
+echo "# Netflix-Clone" >> README.md                                                                                                                             
 git init
 git add README.md
 git commit -m "first commit"
